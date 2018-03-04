@@ -1,6 +1,6 @@
 # Depth Buffer Examples
  
-<img src="/1.jpg?raw=true" width="800"/>
+<img src="/1.png?raw=true" width="800"/>
 
 ## Contact
 
